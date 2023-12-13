@@ -1,0 +1,71 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mohamed Aldakhil
+ID:      169072233
+Email:   alda2233@mylaurier.ca
+Version: 2023-09-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a record number: 3
+Record found: ['43564', 'Weilin', 'Zhao', '450.25', '1998-01-03']
+
+
+Enter a record number: 9
+Record found: []
+
+Enter a record number: 3
+Record found: ['43564', 'Weilin', 'Zhao', '450.25', '1998-01-03']
+
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter customer data (ID, First Name, Last Name, Balance, Date): 35612', 'David', 'Brown', 237.56, '2008-10-10'
+Data appended to file.
+
+Enter customer data (ID, First Name, Last Name, Balance, Date): 94312', 'Brown', 'David', '125.75', '1998-06-24
+Data appended to file.
+
+
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Smallest: 1
+Largest: 13
+Total: 113.00
+Average: 7.06
+
+
+
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Word to count: Exercise
+'Exercise' appears 3 time(s)
+
+Word to count: stuff
+'stuff' appears 0 time(s)
+
+Word to count: Canada
+'Canada' appears 1 time(s)
+
+
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+Copying 'words.txt' to 'new_words.txt' completed.
+
+
+
+-------------------------------------------------------
